@@ -10,4 +10,3 @@ pinned: false
 ---
 
 Web Application url:https://huggingface.co/spaces/SARAN-V/LJ_SpeechRecognition
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
